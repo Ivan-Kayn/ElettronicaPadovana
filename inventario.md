@@ -5,3 +5,5 @@
 - processori
 
 Elettronica Padovana
+
+# componenti
