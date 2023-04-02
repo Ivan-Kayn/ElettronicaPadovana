@@ -2,3 +2,4 @@
 2034325
 
 - schede madri
+- processori
